@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\bin\Debug\workFromManul.exe.config
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\bin\Debug\workFromManul.exe
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\bin\Debug\workFromManul.pdb
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\obj\Debug\workFromManual.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\obj\Debug\workFromManul.exe
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\obj\Debug\workFromManul.pdb
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\workFromManul\obj\Debug\workFromManual.csproj.AssemblyReference.cache

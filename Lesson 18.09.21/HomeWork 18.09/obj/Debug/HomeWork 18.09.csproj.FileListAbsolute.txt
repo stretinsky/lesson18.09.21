@@ -1,0 +1,7 @@
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\obj\Debug\HomeWork 18.09.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\obj\Debug\HomeWork 18.09.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\bin\Debug\HomeWork 18.09.exe.config
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\bin\Debug\HomeWork 18.09.exe
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\bin\Debug\HomeWork 18.09.pdb
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\obj\Debug\HomeWork 18.09.exe
+C:\Users\1\source\repos\18.09.21\Lesson 18.09.21\HomeWork 18.09\obj\Debug\HomeWork 18.09.pdb
